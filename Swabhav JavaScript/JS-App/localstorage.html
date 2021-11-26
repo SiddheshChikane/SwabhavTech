@@ -1,20 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
     <script>
-        var s1 = { name:"sachin", cgpa:7.5}
+        var s1 = { name: "sachin", cgpa: 7.5 }
 
         console.log(s1.name)
         console.log(s1["name"])
         console.log(s1['cgpa']);
 
-        localStorage ["aurionpro.student"] = s1
+        localStorage["aurionpro.student"] = s1
         console.log(localStorage["aurionpro.student"]);
         localStorage["aurionpro.student"] = JSON.stringify(s1);
         console.log(localStorage["aurionpro.student"]);
@@ -23,14 +25,30 @@
         s2.location = "Mumbai";
         console.log(s2)
 
-        var students = [{ name: "Sid",cgpa: 6.5,location: "KoparKhairane"},
-                        {name:"Akshay",cgpa:8.5, location:"Thane"},
-                        {name:"Shivam",cgpa:7.5, location:"Sion"},
-                        {name:"Yogeshwar",cgpa:7, location:"Ahmednagar"},
+        var students = [{ name: "Sid", cgpa: 6.5, location: "KoparKhairane" },
+        { name: "Akshay", cgpa: 8.5, location: "Thane" },
+        { name: "Shivam", cgpa: 7.5, location: "Sion" },
+        { name: "Yogeshwar", cgpa: 7, location: "Ahmednagar" },
+        { name: "Sagar", cgpa: 8, location: "Navi Mumbai" },
 
-                    ];
-        localStorage["students"] = JSON.stringify(students);
-        
+        ];
+
+        localStorage["student"] = JSON.stringify(students);
+        document.write(localStorage["student"]);
+        localStorage.getItem("student");
+        //var data2 = JSON.parse(localStorage.getItem("student"));
+        console.log("students name : ");
+        students.forEach(student => console.log(student.name));
+        console.log("student cgpa greater than 7 ");
+        //students
+        students.filter(student => student.cgpa > 7)
+            .forEach(student => console.log(student.name + " " + student.cgpa));
+
+        console.log("student with long name ");
+        students.filter(student => student.name.length > 7)
+            .forEach(student => console.log(student.name));
+
     </script>
 </body>
+
 </html>
