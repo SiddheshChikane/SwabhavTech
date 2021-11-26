@@ -1,0 +1,14 @@
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\bin\Debug\Numberguesser.exe.config
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\bin\Debug\Numberguesser.exe
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\bin\Debug\Numberguesser.pdb
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\obj\Debug\Numberguesser.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\obj\Debug\Numberguesser.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\obj\Debug\Numberguesser.exe
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\obj\Debug\Numberguesser.pdb
+C:\Users\user\source\repos\Numberguesser\Numberguesser\bin\Debug\Numberguesser.exe.config
+C:\Users\user\source\repos\Numberguesser\Numberguesser\bin\Debug\Numberguesser.exe
+C:\Users\user\source\repos\Numberguesser\Numberguesser\bin\Debug\Numberguesser.pdb
+C:\Users\user\source\repos\Numberguesser\Numberguesser\obj\Debug\Numberguesser.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Numberguesser\Numberguesser\obj\Debug\Numberguesser.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Numberguesser\Numberguesser\obj\Debug\Numberguesser.exe
+C:\Users\user\source\repos\Numberguesser\Numberguesser\obj\Debug\Numberguesser.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MovableApp\MovableApp\bin\Debug\MovableApp.exe.config
+C:\Users\user\source\repos\MovableApp\MovableApp\bin\Debug\MovableApp.exe
+C:\Users\user\source\repos\MovableApp\MovableApp\bin\Debug\MovableApp.pdb
+C:\Users\user\source\repos\MovableApp\MovableApp\obj\Debug\MovableApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MovableApp\MovableApp\obj\Debug\MovableApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MovableApp\MovableApp\obj\Debug\MovableApp.exe
+C:\Users\user\source\repos\MovableApp\MovableApp\obj\Debug\MovableApp.pdb

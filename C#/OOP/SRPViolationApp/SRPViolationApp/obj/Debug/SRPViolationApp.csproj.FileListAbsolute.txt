@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SRPViolationApp\SRPViolationApp\bin\Debug\SRPViolationApp.exe.config
+C:\Users\user\source\repos\SRPViolationApp\SRPViolationApp\bin\Debug\SRPViolationApp.exe
+C:\Users\user\source\repos\SRPViolationApp\SRPViolationApp\bin\Debug\SRPViolationApp.pdb
+C:\Users\user\source\repos\SRPViolationApp\SRPViolationApp\obj\Debug\SRPViolationApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SRPViolationApp\SRPViolationApp\obj\Debug\SRPViolationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SRPViolationApp\SRPViolationApp\obj\Debug\SRPViolationApp.exe
+C:\Users\user\source\repos\SRPViolationApp\SRPViolationApp\obj\Debug\SRPViolationApp.pdb

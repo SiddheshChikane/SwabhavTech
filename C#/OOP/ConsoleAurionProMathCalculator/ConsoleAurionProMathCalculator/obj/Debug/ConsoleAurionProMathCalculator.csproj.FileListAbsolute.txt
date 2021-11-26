@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\ConsoleAurionProMathCalculator.exe.config
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\ConsoleAurionProMathCalculator.exe
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\ConsoleAurionProMathCalculator.pdb
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\AurionProMathCalculator.dll
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\bin\Debug\AurionProMathCalculator.pdb
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.csproj.CopyComplete
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.exe
+C:\Users\user\source\repos\ConsoleAurionProMathCalculator\ConsoleAurionProMathCalculator\obj\Debug\ConsoleAurionProMathCalculator.pdb

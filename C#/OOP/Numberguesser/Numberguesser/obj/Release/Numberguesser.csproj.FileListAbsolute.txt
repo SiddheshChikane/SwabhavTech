@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\bin\Release\Numberguesser.exe.config
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\bin\Release\Numberguesser.exe
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\bin\Release\Numberguesser.pdb
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\obj\Release\Numberguesser.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\obj\Release\Numberguesser.exe
+E:\SwabhavTech\C#\OOP\Numberguesser\Numberguesser\obj\Release\Numberguesser.pdb

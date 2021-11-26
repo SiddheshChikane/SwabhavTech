@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ISPSln\ISPViolationApp\obj\Debug\ISPViolationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ISPSln\ISPViolationApp\bin\Debug\ISPViolationApp.exe.config
+C:\Users\user\source\repos\ISPSln\ISPViolationApp\bin\Debug\ISPViolationApp.exe
+C:\Users\user\source\repos\ISPSln\ISPViolationApp\bin\Debug\ISPViolationApp.pdb
+C:\Users\user\source\repos\ISPSln\ISPViolationApp\obj\Debug\ISPViolationApp.exe
+C:\Users\user\source\repos\ISPSln\ISPViolationApp\obj\Debug\ISPViolationApp.pdb

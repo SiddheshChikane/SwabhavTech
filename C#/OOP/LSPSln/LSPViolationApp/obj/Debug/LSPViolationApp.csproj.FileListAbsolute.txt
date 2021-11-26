@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\LSPSln\LSPViolationApp\obj\Debug\LSPViolationApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LSPSln\LSPViolationApp\obj\Debug\LSPViolationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LSPSln\LSPViolationApp\bin\Debug\LSPViolationApp.exe.config
+C:\Users\user\source\repos\LSPSln\LSPViolationApp\bin\Debug\LSPViolationApp.exe
+C:\Users\user\source\repos\LSPSln\LSPViolationApp\bin\Debug\LSPViolationApp.pdb
+C:\Users\user\source\repos\LSPSln\LSPViolationApp\obj\Debug\LSPViolationApp.exe
+C:\Users\user\source\repos\LSPSln\LSPViolationApp\obj\Debug\LSPViolationApp.pdb

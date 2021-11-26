@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\TictactoeCore\bin\Debug\TictactoeCore.exe.config
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\TictactoeCore\bin\Debug\TictactoeCore.exe
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\TictactoeCore\bin\Debug\TictactoeCore.pdb
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\TictactoeCore\obj\Debug\TictactoeCore.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\TictactoeCore\obj\Debug\TictactoeCore.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\TictactoeCore\obj\Debug\TictactoeCore.exe
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\TictactoeCore\obj\Debug\TictactoeCore.pdb

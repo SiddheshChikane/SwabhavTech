@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Design Patterns\Creationals\GenericQueueApp\GenericQueueApp\bin\Debug\GenericQueueApp.exe.config
+E:\SwabhavTech\C#\Design Patterns\Creationals\GenericQueueApp\GenericQueueApp\bin\Debug\GenericQueueApp.exe
+E:\SwabhavTech\C#\Design Patterns\Creationals\GenericQueueApp\GenericQueueApp\bin\Debug\GenericQueueApp.pdb
+E:\SwabhavTech\C#\Design Patterns\Creationals\GenericQueueApp\GenericQueueApp\obj\Debug\GenericQueueApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\GenericQueueApp\GenericQueueApp\obj\Debug\GenericQueueApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\GenericQueueApp\GenericQueueApp\obj\Debug\GenericQueueApp.exe
+E:\SwabhavTech\C#\Design Patterns\Creationals\GenericQueueApp\GenericQueueApp\obj\Debug\GenericQueueApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\LSPSln\LSPSolutionApp\obj\Debug\LSPSolutionApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LSPSln\LSPSolutionApp\obj\Debug\LSPSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LSPSln\LSPSolutionApp\bin\Debug\LSPSolutionApp.exe.config
+C:\Users\user\source\repos\LSPSln\LSPSolutionApp\bin\Debug\LSPSolutionApp.exe
+C:\Users\user\source\repos\LSPSln\LSPSolutionApp\bin\Debug\LSPSolutionApp.pdb
+C:\Users\user\source\repos\LSPSln\LSPSolutionApp\obj\Debug\LSPSolutionApp.exe
+C:\Users\user\source\repos\LSPSln\LSPSolutionApp\obj\Debug\LSPSolutionApp.pdb

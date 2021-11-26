@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\SRPViolationApp\SRPSolutionApp\bin\Debug\SRPSolutionApp.exe.config
+C:\Users\user\source\repos\SRPViolationApp\SRPSolutionApp\bin\Debug\SRPSolutionApp.exe
+C:\Users\user\source\repos\SRPViolationApp\SRPSolutionApp\bin\Debug\SRPSolutionApp.pdb
+C:\Users\user\source\repos\SRPViolationApp\SRPSolutionApp\obj\Debug\SRPSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SRPViolationApp\SRPSolutionApp\obj\Debug\SRPSolutionApp.exe
+C:\Users\user\source\repos\SRPViolationApp\SRPSolutionApp\obj\Debug\SRPSolutionApp.pdb

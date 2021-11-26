@@ -1,0 +1,17 @@
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Tictactoecore.Test.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Tictactoecore.Test.pdb
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\TictactoeCore.exe
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\TictactoeCore.pdb
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\TictactoeCore.exe.config
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\obj\Debug\Tictactoecore.Test.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\obj\Debug\Tictactoecore.Test.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\obj\Debug\Tictactoecore.Test.csproj.CopyComplete
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\obj\Debug\Tictactoecore.Test.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\TictactoeSln\Tictactoecore.Test\obj\Debug\Tictactoecore.Test.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeHeadFirstJava", "PracticeHeadFirstJava\PracticeHeadFirstJava.csproj", "{98F1753F-03BC-4809-A3B9-6DAC8CE16FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F1753F-03BC-4809-A3B9-6DAC8CE16FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F1753F-03BC-4809-A3B9-6DAC8CE16FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F1753F-03BC-4809-A3B9-6DAC8CE16FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F1753F-03BC-4809-A3B9-6DAC8CE16FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B353163F-904B-44D4-B5B5-A0B2B01E919C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\ExceptionGenerationApp.exe.config
+C:\Users\user\source\repos\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\ExceptionGenerationApp.exe
+C:\Users\user\source\repos\ExceptionGenerationApp\ExceptionGenerationApp\bin\Debug\ExceptionGenerationApp.pdb
+C:\Users\user\source\repos\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.exe
+C:\Users\user\source\repos\ExceptionGenerationApp\ExceptionGenerationApp\obj\Debug\ExceptionGenerationApp.pdb

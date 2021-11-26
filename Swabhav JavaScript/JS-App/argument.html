@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function f1(){
+            console.log(arguments.length)
+            for(i=0; i<arguments.length; i++){
+                if(typeof arguments[i] == 'function')
+                console.log(arguments[i]());
+                else{
+                    console.log(arguments[i]);
+                }
+            }
+        }
+        f1();
+        f1(1,2,3);
+        f1(1,2,3,4,{'key':100});
+        f1(1,{'key':20},
+        function(){console.log("inside fn ,will be called back")});
+
+        function doSomething(){
+            console.log("doSomething");
+        }
+        f1(10,20,doSomething);
+
+        var arr = [10,20,30,function(){console.log("function inside array");}]
+        console.log(arr[3-1]());
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CrudOfListApp\CrudOfListApp\bin\Debug\CrudOfListApp.exe.config
+C:\Users\user\source\repos\CrudOfListApp\CrudOfListApp\bin\Debug\CrudOfListApp.exe
+C:\Users\user\source\repos\CrudOfListApp\CrudOfListApp\bin\Debug\CrudOfListApp.pdb
+C:\Users\user\source\repos\CrudOfListApp\CrudOfListApp\obj\Debug\CrudOfListApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CrudOfListApp\CrudOfListApp\obj\Debug\CrudOfListApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CrudOfListApp\CrudOfListApp\obj\Debug\CrudOfListApp.exe
+C:\Users\user\source\repos\CrudOfListApp\CrudOfListApp\obj\Debug\CrudOfListApp.pdb

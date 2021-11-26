@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.exe.config
+C:\Users\user\source\repos\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.exe
+C:\Users\user\source\repos\PropertySyntaxApp\PropertySyntaxApp\bin\Debug\PropertySyntaxApp.pdb
+C:\Users\user\source\repos\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.exe
+C:\Users\user\source\repos\PropertySyntaxApp\PropertySyntaxApp\obj\Debug\PropertySyntaxApp.pdb

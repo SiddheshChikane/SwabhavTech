@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\obj\Debug\ShoppingCartLib.Test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\obj\Debug\ShoppingCartLib.Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\ShoppingCartLib.Test.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\ShoppingCartLib.Test.pdb
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\ShoppingCartLib.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\ShoppingCartLib.pdb
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\obj\Debug\ShoppingCartLib.Test.csproj.CopyComplete
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\obj\Debug\ShoppingCartLib.Test.dll
+C:\Users\user\source\repos\ShoppingCartSolution\ShoppingCartLib.Test\obj\Debug\ShoppingCartLib.Test.pdb

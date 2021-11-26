@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\Design Patterns\Creationals\ObserverPatternSln\PublisherLib\bin\Debug\PublisherLib.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\ObserverPatternSln\PublisherLib\bin\Debug\PublisherLib.pdb
+E:\SwabhavTech\C#\Design Patterns\Creationals\ObserverPatternSln\PublisherLib\obj\Debug\PublisherLib.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\ObserverPatternSln\PublisherLib\obj\Debug\PublisherLib.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\ObserverPatternSln\PublisherLib\obj\Debug\PublisherLib.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\ObserverPatternSln\PublisherLib\obj\Debug\PublisherLib.pdb

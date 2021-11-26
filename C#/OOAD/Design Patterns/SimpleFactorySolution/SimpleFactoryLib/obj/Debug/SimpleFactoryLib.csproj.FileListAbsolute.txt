@@ -1,0 +1,6 @@
+E:\SwabhavTech\C#\Design Patterns\Creationals\SimpleFactorySolution\SimpleFactoryLib\bin\Debug\SimpleFactoryLib.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\SimpleFactorySolution\SimpleFactoryLib\bin\Debug\SimpleFactoryLib.pdb
+E:\SwabhavTech\C#\Design Patterns\Creationals\SimpleFactorySolution\SimpleFactoryLib\obj\Debug\SimpleFactoryLib.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\SimpleFactorySolution\SimpleFactoryLib\obj\Debug\SimpleFactoryLib.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\SimpleFactorySolution\SimpleFactoryLib\obj\Debug\SimpleFactoryLib.dll
+E:\SwabhavTech\C#\Design Patterns\Creationals\SimpleFactorySolution\SimpleFactoryLib\obj\Debug\SimpleFactoryLib.pdb

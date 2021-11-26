@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var s1 = { name:"sachin", cgpa:7.5}
+
+        console.log(s1.name)
+        console.log(s1["name"])
+        console.log(s1['cgpa']);
+
+        localStorage ["aurionpro.student"] = s1
+        console.log(localStorage["aurionpro.student"]);
+        localStorage["aurionpro.student"] = JSON.stringify(s1);
+        console.log(localStorage["aurionpro.student"]);
+
+        var s2 = JSON.parse(localStorage["aurionpro.student"]);
+        s2.location = "Mumbai";
+        console.log(s2)
+
+        var students = [{ name: "Sid",cgpa: 6.5,location: "KoparKhairane"},
+                        {name:"Akshay",cgpa:8.5, location:"Thane"},
+                        {name:"Shivam",cgpa:7.5, location:"Sion"},
+                        {name:"Yogeshwar",cgpa:7, location:"Ahmednagar"},
+
+                    ];
+        localStorage["students"] = JSON.stringify(students);
+        
+    </script>
+</body>
+</html>

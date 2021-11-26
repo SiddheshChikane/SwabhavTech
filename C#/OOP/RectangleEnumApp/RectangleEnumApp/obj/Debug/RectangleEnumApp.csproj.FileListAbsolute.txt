@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe.config
+C:\Users\user\source\repos\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.exe
+C:\Users\user\source\repos\RectangleEnumApp\RectangleEnumApp\bin\Debug\RectangleEnumApp.pdb
+C:\Users\user\source\repos\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.exe
+C:\Users\user\source\repos\RectangleEnumApp\RectangleEnumApp\obj\Debug\RectangleEnumApp.pdb

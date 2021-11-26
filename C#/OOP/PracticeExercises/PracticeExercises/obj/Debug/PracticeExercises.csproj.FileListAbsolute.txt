@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\PracticeExercises\PracticeExercises\bin\Debug\PracticeExercises.exe.config
+C:\Users\user\source\repos\PracticeExercises\PracticeExercises\bin\Debug\PracticeExercises.exe
+C:\Users\user\source\repos\PracticeExercises\PracticeExercises\bin\Debug\PracticeExercises.pdb
+C:\Users\user\source\repos\PracticeExercises\PracticeExercises\obj\Debug\PracticeExercises.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PracticeExercises\PracticeExercises\obj\Debug\PracticeExercises.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PracticeExercises\PracticeExercises\obj\Debug\PracticeExercises.exe
+C:\Users\user\source\repos\PracticeExercises\PracticeExercises\obj\Debug\PracticeExercises.pdb

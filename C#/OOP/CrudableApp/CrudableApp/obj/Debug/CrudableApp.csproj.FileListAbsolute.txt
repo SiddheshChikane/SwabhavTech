@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CrudableApp\CrudableApp\bin\Debug\CrudableApp.exe.config
+C:\Users\user\source\repos\CrudableApp\CrudableApp\bin\Debug\CrudableApp.exe
+C:\Users\user\source\repos\CrudableApp\CrudableApp\bin\Debug\CrudableApp.pdb
+C:\Users\user\source\repos\CrudableApp\CrudableApp\obj\Debug\CrudableApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CrudableApp\CrudableApp\obj\Debug\CrudableApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CrudableApp\CrudableApp\obj\Debug\CrudableApp.exe
+C:\Users\user\source\repos\CrudableApp\CrudableApp\obj\Debug\CrudableApp.pdb

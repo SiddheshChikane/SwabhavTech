@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Siddhesh\Siddhesh\obj\Debug\Siddhesh.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Siddhesh\Siddhesh\obj\Debug\Siddhesh.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Siddhesh\Siddhesh\bin\Debug\Siddhesh.exe.config
+C:\Users\user\source\repos\Siddhesh\Siddhesh\bin\Debug\Siddhesh.exe
+C:\Users\user\source\repos\Siddhesh\Siddhesh\bin\Debug\Siddhesh.pdb
+C:\Users\user\source\repos\Siddhesh\Siddhesh\obj\Debug\Siddhesh.exe
+C:\Users\user\source\repos\Siddhesh\Siddhesh\obj\Debug\Siddhesh.pdb

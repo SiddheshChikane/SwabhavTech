@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ThisPointerApp\ThisPointerApp\bin\Debug\ThisPointerApp.exe.config
+C:\Users\user\source\repos\ThisPointerApp\ThisPointerApp\bin\Debug\ThisPointerApp.exe
+C:\Users\user\source\repos\ThisPointerApp\ThisPointerApp\bin\Debug\ThisPointerApp.pdb
+C:\Users\user\source\repos\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.exe
+C:\Users\user\source\repos\ThisPointerApp\ThisPointerApp\obj\Debug\ThisPointerApp.pdb

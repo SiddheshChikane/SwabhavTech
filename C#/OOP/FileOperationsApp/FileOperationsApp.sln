@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperationsApp", "FileOperationsApp\FileOperationsApp.csproj", "{48F57717-0680-41F1-AF33-EFDC27545433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F57717-0680-41F1-AF33-EFDC27545433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F57717-0680-41F1-AF33-EFDC27545433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F57717-0680-41F1-AF33-EFDC27545433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F57717-0680-41F1-AF33-EFDC27545433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215E846B-9E73-4080-A036-A5D310F9E269}
+	EndGlobalSection
+EndGlobal

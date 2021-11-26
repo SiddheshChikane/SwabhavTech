@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\PassingValuesApp\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PassingValuesApp\PassingValuesApp\obj\Debug\PassingValuesApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PassingValuesApp\PassingValuesApp\bin\Debug\PassingValuesApp.exe.config
+C:\Users\user\source\repos\PassingValuesApp\PassingValuesApp\bin\Debug\PassingValuesApp.exe
+C:\Users\user\source\repos\PassingValuesApp\PassingValuesApp\bin\Debug\PassingValuesApp.pdb
+C:\Users\user\source\repos\PassingValuesApp\PassingValuesApp\obj\Debug\PassingValuesApp.exe
+C:\Users\user\source\repos\PassingValuesApp\PassingValuesApp\obj\Debug\PassingValuesApp.pdb

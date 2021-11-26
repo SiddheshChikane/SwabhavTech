@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\PersonBMIApp\PersonBMIApp\bin\Debug\PersonBMIApp.exe.config
+C:\Users\user\source\repos\PersonBMIApp\PersonBMIApp\bin\Debug\PersonBMIApp.exe
+C:\Users\user\source\repos\PersonBMIApp\PersonBMIApp\bin\Debug\PersonBMIApp.pdb
+C:\Users\user\source\repos\PersonBMIApp\PersonBMIApp\obj\Debug\PersonBMIApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PersonBMIApp\PersonBMIApp\obj\Debug\PersonBMIApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PersonBMIApp\PersonBMIApp\obj\Debug\PersonBMIApp.exe
+C:\Users\user\source\repos\PersonBMIApp\PersonBMIApp\obj\Debug\PersonBMIApp.pdb

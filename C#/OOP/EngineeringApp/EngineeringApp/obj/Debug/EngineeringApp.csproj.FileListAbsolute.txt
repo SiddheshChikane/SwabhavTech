@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\EngineeringApp\EngineeringApp\obj\Debug\EngineeringApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EngineeringApp\EngineeringApp\obj\Debug\EngineeringApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EngineeringApp\EngineeringApp\bin\Debug\EngineeringApp.exe.config
+C:\Users\user\source\repos\EngineeringApp\EngineeringApp\bin\Debug\EngineeringApp.exe
+C:\Users\user\source\repos\EngineeringApp\EngineeringApp\bin\Debug\EngineeringApp.pdb
+C:\Users\user\source\repos\EngineeringApp\EngineeringApp\obj\Debug\EngineeringApp.exe
+C:\Users\user\source\repos\EngineeringApp\EngineeringApp\obj\Debug\EngineeringApp.pdb

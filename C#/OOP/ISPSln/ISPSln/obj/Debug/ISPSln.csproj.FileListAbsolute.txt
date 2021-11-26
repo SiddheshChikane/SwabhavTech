@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ISPSln\ISPSln\bin\Debug\ISPSln.exe.config
+C:\Users\user\source\repos\ISPSln\ISPSln\bin\Debug\ISPSln.exe
+C:\Users\user\source\repos\ISPSln\ISPSln\bin\Debug\ISPSln.pdb
+C:\Users\user\source\repos\ISPSln\ISPSln\obj\Debug\ISPSln.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ISPSln\ISPSln\obj\Debug\ISPSln.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ISPSln\ISPSln\obj\Debug\ISPSln.exe
+C:\Users\user\source\repos\ISPSln\ISPSln\obj\Debug\ISPSln.pdb

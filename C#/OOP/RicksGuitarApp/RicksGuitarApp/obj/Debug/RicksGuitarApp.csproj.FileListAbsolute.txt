@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RicksGuitarApp\RicksGuitarApp\bin\Debug\RicksGuitarApp.exe.config
+C:\Users\user\source\repos\RicksGuitarApp\RicksGuitarApp\bin\Debug\RicksGuitarApp.exe
+C:\Users\user\source\repos\RicksGuitarApp\RicksGuitarApp\bin\Debug\RicksGuitarApp.pdb
+C:\Users\user\source\repos\RicksGuitarApp\RicksGuitarApp\obj\Debug\RicksGuitarApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RicksGuitarApp\RicksGuitarApp\obj\Debug\RicksGuitarApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RicksGuitarApp\RicksGuitarApp\obj\Debug\RicksGuitarApp.exe
+C:\Users\user\source\repos\RicksGuitarApp\RicksGuitarApp\obj\Debug\RicksGuitarApp.pdb

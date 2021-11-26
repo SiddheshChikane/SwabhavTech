@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DogDoorApp\DogDoorApp\bin\Debug\DogDoorApp.exe.config
+C:\Users\user\source\repos\DogDoorApp\DogDoorApp\bin\Debug\DogDoorApp.exe
+C:\Users\user\source\repos\DogDoorApp\DogDoorApp\bin\Debug\DogDoorApp.pdb
+C:\Users\user\source\repos\DogDoorApp\DogDoorApp\obj\Debug\DogDoorApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DogDoorApp\DogDoorApp\obj\Debug\DogDoorApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DogDoorApp\DogDoorApp\obj\Debug\DogDoorApp.exe
+C:\Users\user\source\repos\DogDoorApp\DogDoorApp\obj\Debug\DogDoorApp.pdb

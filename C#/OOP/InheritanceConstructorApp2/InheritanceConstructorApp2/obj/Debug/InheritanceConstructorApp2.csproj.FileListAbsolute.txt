@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\InheritanceConstructorApp2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\InheritanceConstructorApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\InheritanceConstructorApp2.exe.config
+C:\Users\user\source\repos\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\InheritanceConstructorApp2.exe
+C:\Users\user\source\repos\InheritanceConstructorApp2\InheritanceConstructorApp2\bin\Debug\InheritanceConstructorApp2.pdb
+C:\Users\user\source\repos\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\InheritanceConstructorApp2.exe
+C:\Users\user\source\repos\InheritanceConstructorApp2\InheritanceConstructorApp2\obj\Debug\InheritanceConstructorApp2.pdb

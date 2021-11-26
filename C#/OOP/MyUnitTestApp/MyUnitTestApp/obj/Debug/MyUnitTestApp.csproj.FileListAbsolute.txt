@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\MyUnitTestApp\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe.config
+C:\Users\user\source\repos\MyUnitTestApp\MyUnitTestApp\bin\Debug\MyUnitTestApp.exe
+C:\Users\user\source\repos\MyUnitTestApp\MyUnitTestApp\bin\Debug\MyUnitTestApp.pdb
+C:\Users\user\source\repos\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.exe
+C:\Users\user\source\repos\MyUnitTestApp\MyUnitTestApp\obj\Debug\MyUnitTestApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\AurionProMathCalculator\AurionProMathCalculator\bin\Debug\AurionProMathCalculator.dll
+C:\Users\user\source\repos\AurionProMathCalculator\AurionProMathCalculator\bin\Debug\AurionProMathCalculator.pdb
+C:\Users\user\source\repos\AurionProMathCalculator\AurionProMathCalculator\obj\Debug\AurionProMathCalculator.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AurionProMathCalculator\AurionProMathCalculator\obj\Debug\AurionProMathCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AurionProMathCalculator\AurionProMathCalculator\obj\Debug\AurionProMathCalculator.dll
+C:\Users\user\source\repos\AurionProMathCalculator\AurionProMathCalculator\obj\Debug\AurionProMathCalculator.pdb

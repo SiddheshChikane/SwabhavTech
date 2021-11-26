@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        //For Loop
+
+        var count = 6;
+
+        function saySometing() {
+            document.writeln("Heyy!!")
+        }
+        for (var i = 0; i < count; i++) {
+            saySometing();
+        }
+
+        // var myArray = ["w","e","r"];
+        // for(var i =0; i<myArray.length; i++){
+        //     document.writeln(myArray[i])
+        // }
+
+        for (var i = 0; i < 200; i++) {
+            document.writeln(i);
+            if (i == 60) {
+                break;
+            }
+        }
+
+        //While Loop
+
+        var count = 0;
+        document.writeln("<br><br> While Loop ==>")
+        while (count < 10) {
+            document.writeln("<br>looping away!")
+            count++;
+        }
+
+        // doWhile Loop
+
+        var count = 0;
+        document.writeln("<br> <br>Do While Loop ==>")
+        do {
+            count++;
+            document.writeln("<br>I don't know what i am doing here!");
+        } while (count < 5)
+    </script>
+</body>
+
+</html>

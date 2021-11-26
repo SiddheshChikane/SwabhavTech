@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ElectricGuitar\ElectricGuitar\bin\Debug\ElectricGuitar.exe.config
+C:\Users\user\source\repos\ElectricGuitar\ElectricGuitar\bin\Debug\ElectricGuitar.exe
+C:\Users\user\source\repos\ElectricGuitar\ElectricGuitar\bin\Debug\ElectricGuitar.pdb
+C:\Users\user\source\repos\ElectricGuitar\ElectricGuitar\obj\Debug\ElectricGuitar.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ElectricGuitar\ElectricGuitar\obj\Debug\ElectricGuitar.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ElectricGuitar\ElectricGuitar\obj\Debug\ElectricGuitar.exe
+C:\Users\user\source\repos\ElectricGuitar\ElectricGuitar\obj\Debug\ElectricGuitar.pdb

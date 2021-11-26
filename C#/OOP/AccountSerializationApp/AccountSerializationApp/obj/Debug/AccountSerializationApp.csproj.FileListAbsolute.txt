@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AccountSerializationApp\AccountSerializationApp\bin\Debug\AccountSerializationApp.exe.config
+C:\Users\user\source\repos\AccountSerializationApp\AccountSerializationApp\bin\Debug\AccountSerializationApp.exe
+C:\Users\user\source\repos\AccountSerializationApp\AccountSerializationApp\bin\Debug\AccountSerializationApp.pdb
+C:\Users\user\source\repos\AccountSerializationApp\AccountSerializationApp\obj\Debug\AccountSerializationApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AccountSerializationApp\AccountSerializationApp\obj\Debug\AccountSerializationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AccountSerializationApp\AccountSerializationApp\obj\Debug\AccountSerializationApp.exe
+C:\Users\user\source\repos\AccountSerializationApp\AccountSerializationApp\obj\Debug\AccountSerializationApp.pdb

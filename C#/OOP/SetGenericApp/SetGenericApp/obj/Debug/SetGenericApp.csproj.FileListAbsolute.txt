@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SetGenericApp\SetGenericApp\bin\Debug\SetGenericApp.exe.config
+C:\Users\user\source\repos\SetGenericApp\SetGenericApp\bin\Debug\SetGenericApp.exe
+C:\Users\user\source\repos\SetGenericApp\SetGenericApp\bin\Debug\SetGenericApp.pdb
+C:\Users\user\source\repos\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.exe
+C:\Users\user\source\repos\SetGenericApp\SetGenericApp\obj\Debug\SetGenericApp.pdb

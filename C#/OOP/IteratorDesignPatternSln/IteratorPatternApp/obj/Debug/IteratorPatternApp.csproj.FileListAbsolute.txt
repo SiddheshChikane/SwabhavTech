@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\IteratorDesignPatternSln\IteratorPatternApp\bin\Debug\IteratorPatternApp.exe.config
+C:\Users\user\source\repos\IteratorDesignPatternSln\IteratorPatternApp\bin\Debug\IteratorPatternApp.exe
+C:\Users\user\source\repos\IteratorDesignPatternSln\IteratorPatternApp\bin\Debug\IteratorPatternApp.pdb
+C:\Users\user\source\repos\IteratorDesignPatternSln\IteratorPatternApp\obj\Debug\IteratorPatternApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\IteratorDesignPatternSln\IteratorPatternApp\obj\Debug\IteratorPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IteratorDesignPatternSln\IteratorPatternApp\obj\Debug\IteratorPatternApp.exe
+C:\Users\user\source\repos\IteratorDesignPatternSln\IteratorPatternApp\obj\Debug\IteratorPatternApp.pdb

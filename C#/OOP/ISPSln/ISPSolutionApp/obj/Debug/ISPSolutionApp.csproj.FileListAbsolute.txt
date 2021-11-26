@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ISPSln\ISPSolutionApp\bin\Debug\ISPSolutionApp.exe.config
+C:\Users\user\source\repos\ISPSln\ISPSolutionApp\bin\Debug\ISPSolutionApp.exe
+C:\Users\user\source\repos\ISPSln\ISPSolutionApp\bin\Debug\ISPSolutionApp.pdb
+C:\Users\user\source\repos\ISPSln\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ISPSln\ISPSolutionApp\obj\Debug\ISPSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ISPSln\ISPSolutionApp\obj\Debug\ISPSolutionApp.exe
+C:\Users\user\source\repos\ISPSln\ISPSolutionApp\obj\Debug\ISPSolutionApp.pdb

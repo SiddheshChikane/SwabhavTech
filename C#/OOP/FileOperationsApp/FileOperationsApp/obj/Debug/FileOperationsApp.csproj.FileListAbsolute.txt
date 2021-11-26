@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FileOperationsApp\FileOperationsApp\bin\Debug\FileOperationsApp.exe.config
+C:\Users\user\source\repos\FileOperationsApp\FileOperationsApp\bin\Debug\FileOperationsApp.exe
+C:\Users\user\source\repos\FileOperationsApp\FileOperationsApp\bin\Debug\FileOperationsApp.pdb
+C:\Users\user\source\repos\FileOperationsApp\FileOperationsApp\obj\Debug\FileOperationsApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FileOperationsApp\FileOperationsApp\obj\Debug\FileOperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileOperationsApp\FileOperationsApp\obj\Debug\FileOperationsApp.exe
+C:\Users\user\source\repos\FileOperationsApp\FileOperationsApp\obj\Debug\FileOperationsApp.pdb

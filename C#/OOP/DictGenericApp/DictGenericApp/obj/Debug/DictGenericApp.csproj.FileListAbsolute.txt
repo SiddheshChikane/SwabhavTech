@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DictGenericApp\DictGenericApp\bin\Debug\DictGenericApp.exe.config
+C:\Users\user\source\repos\DictGenericApp\DictGenericApp\bin\Debug\DictGenericApp.exe
+C:\Users\user\source\repos\DictGenericApp\DictGenericApp\bin\Debug\DictGenericApp.pdb
+C:\Users\user\source\repos\DictGenericApp\DictGenericApp\obj\Debug\DictGenericApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DictGenericApp\DictGenericApp\obj\Debug\DictGenericApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DictGenericApp\DictGenericApp\obj\Debug\DictGenericApp.exe
+C:\Users\user\source\repos\DictGenericApp\DictGenericApp\obj\Debug\DictGenericApp.pdb

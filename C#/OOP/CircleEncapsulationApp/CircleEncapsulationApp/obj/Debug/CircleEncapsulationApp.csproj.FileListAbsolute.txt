@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CircleEncapsulationApp\CircleEncapsulationApp\bin\Debug\CircleEncapsulationApp.exe.config
+C:\Users\user\source\repos\CircleEncapsulationApp\CircleEncapsulationApp\bin\Debug\CircleEncapsulationApp.exe
+C:\Users\user\source\repos\CircleEncapsulationApp\CircleEncapsulationApp\bin\Debug\CircleEncapsulationApp.pdb
+C:\Users\user\source\repos\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.exe
+C:\Users\user\source\repos\CircleEncapsulationApp\CircleEncapsulationApp\obj\Debug\CircleEncapsulationApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\AccountToStringEqualityApp\AccountToStringEqualityApp\obj\Debug\AccountToStringEqualityApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\AccountToStringEqualityApp\AccountToStringEqualityApp\obj\Debug\AccountToStringEqualityApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AccountToStringEqualityApp\AccountToStringEqualityApp\bin\Debug\AccountToStringEqualityApp.exe.config
+C:\Users\user\source\repos\AccountToStringEqualityApp\AccountToStringEqualityApp\bin\Debug\AccountToStringEqualityApp.exe
+C:\Users\user\source\repos\AccountToStringEqualityApp\AccountToStringEqualityApp\bin\Debug\AccountToStringEqualityApp.pdb
+C:\Users\user\source\repos\AccountToStringEqualityApp\AccountToStringEqualityApp\obj\Debug\AccountToStringEqualityApp.exe
+C:\Users\user\source\repos\AccountToStringEqualityApp\AccountToStringEqualityApp\obj\Debug\AccountToStringEqualityApp.pdb

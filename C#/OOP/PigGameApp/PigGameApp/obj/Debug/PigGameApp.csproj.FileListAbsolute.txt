@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PigGameApp\PigGameApp\bin\Debug\PigGameApp.exe.config
+C:\Users\user\source\repos\PigGameApp\PigGameApp\bin\Debug\PigGameApp.exe
+C:\Users\user\source\repos\PigGameApp\PigGameApp\bin\Debug\PigGameApp.pdb
+C:\Users\user\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.exe
+C:\Users\user\source\repos\PigGameApp\PigGameApp\obj\Debug\PigGameApp.pdb

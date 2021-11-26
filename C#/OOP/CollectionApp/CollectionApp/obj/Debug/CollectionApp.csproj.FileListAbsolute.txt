@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.exe.config
+C:\Users\user\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.exe
+C:\Users\user\source\repos\CollectionApp\CollectionApp\bin\Debug\CollectionApp.pdb
+C:\Users\user\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.exe
+C:\Users\user\source\repos\CollectionApp\CollectionApp\obj\Debug\CollectionApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\RectangleEncapsulationApp\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.exe.config
+C:\Users\user\source\repos\RectangleEncapsulationApp\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.exe
+C:\Users\user\source\repos\RectangleEncapsulationApp\RectangleEncapsulationApp\bin\Debug\RectangleEncapsulationApp.pdb
+C:\Users\user\source\repos\RectangleEncapsulationApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RectangleEncapsulationApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RectangleEncapsulationApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.exe
+C:\Users\user\source\repos\RectangleEncapsulationApp\RectangleEncapsulationApp\obj\Debug\RectangleEncapsulationApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ConsoleShoppingCartApp.exe.config
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ConsoleShoppingCartApp.exe
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ConsoleShoppingCartApp.pdb
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ShoppingCartLib.dll
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\bin\Debug\ShoppingCartLib.pdb
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.csproj.CopyComplete
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.exe
+C:\Users\user\source\repos\ConsoleShoppingCartApp\ConsoleShoppingCartApp\obj\Debug\ConsoleShoppingCartApp.pdb

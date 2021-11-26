@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\DIPSln\DIPViolationApp\bin\Debug\DIPViolationApp.exe.config
+C:\Users\user\source\repos\DIPSln\DIPViolationApp\bin\Debug\DIPViolationApp.exe
+C:\Users\user\source\repos\DIPSln\DIPViolationApp\bin\Debug\DIPViolationApp.pdb
+C:\Users\user\source\repos\DIPSln\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DIPSln\DIPViolationApp\obj\Debug\DIPViolationApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DIPSln\DIPViolationApp\obj\Debug\DIPViolationApp.exe
+C:\Users\user\source\repos\DIPSln\DIPViolationApp\obj\Debug\DIPViolationApp.pdb

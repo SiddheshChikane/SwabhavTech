@@ -1,0 +1,7 @@
+E:\SwabhavTech\C#\Design Patterns\Creationals\SingletonDesignPatternApp\SingletonDesignPatternApp\bin\Debug\SingletonDesignPatternApp.exe.config
+E:\SwabhavTech\C#\Design Patterns\Creationals\SingletonDesignPatternApp\SingletonDesignPatternApp\bin\Debug\SingletonDesignPatternApp.exe
+E:\SwabhavTech\C#\Design Patterns\Creationals\SingletonDesignPatternApp\SingletonDesignPatternApp\bin\Debug\SingletonDesignPatternApp.pdb
+E:\SwabhavTech\C#\Design Patterns\Creationals\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.csproj.AssemblyReference.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.csproj.CoreCompileInputs.cache
+E:\SwabhavTech\C#\Design Patterns\Creationals\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.exe
+E:\SwabhavTech\C#\Design Patterns\Creationals\SingletonDesignPatternApp\SingletonDesignPatternApp\obj\Debug\SingletonDesignPatternApp.pdb

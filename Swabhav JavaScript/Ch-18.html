@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=scr, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        //The Boolean Function
+        bool = Boolean(null);
+        document.writeln(bool + "<br>");
+        bool = Boolean(undefined);
+        document.writeln(bool + "<br>");
+        bool = Boolean();
+        document.writeln(bool + "<br>");
+        bool = Boolean(0);
+        document.writeln(bool + "<br>");
+        bool = Boolean("");
+        document.writeln(bool + "<br>");
+        bool = Boolean(NaN);
+        document.writeln(bool + "<br>");
+        bool = Boolean("");
+        document.writeln(bool + "<br>");
+        bool = Boolean(false);
+        document.writeln(bool + "<br>");
+        bool = Boolean(56);
+        document.writeln(bool + "<br>");
+
+        bool = Boolean("Hello");
+        document.writeln("hello "+bool + "<br>");
+        bool = Boolean("Liam Nesson" + "Bruce Willie")
+        document.writeln("Liam Nesson " + "Bruce Willie " + bool + "<br>");
+        bool = Boolean(new Boolean());
+        document.writeln("New boolean " + bool + "<br>")
+
+        var boolObject = new Boolean(false);
+        if(boolObject){
+            document.writeln("bool,you are crazy")
+        }
+    </script>
+</body>
+
+</html>

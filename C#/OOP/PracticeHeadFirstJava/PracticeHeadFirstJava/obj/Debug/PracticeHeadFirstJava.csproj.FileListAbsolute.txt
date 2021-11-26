@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\PracticeHeadFirstJava\PracticeHeadFirstJava\bin\Debug\PracticeHeadFirstJava.exe.config
+C:\Users\user\source\repos\PracticeHeadFirstJava\PracticeHeadFirstJava\bin\Debug\PracticeHeadFirstJava.exe
+C:\Users\user\source\repos\PracticeHeadFirstJava\PracticeHeadFirstJava\bin\Debug\PracticeHeadFirstJava.pdb
+C:\Users\user\source\repos\PracticeHeadFirstJava\PracticeHeadFirstJava\obj\Debug\PracticeHeadFirstJava.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PracticeHeadFirstJava\PracticeHeadFirstJava\obj\Debug\PracticeHeadFirstJava.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PracticeHeadFirstJava\PracticeHeadFirstJava\obj\Debug\PracticeHeadFirstJava.exe
+C:\Users\user\source\repos\PracticeHeadFirstJava\PracticeHeadFirstJava\obj\Debug\PracticeHeadFirstJava.pdb

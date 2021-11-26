@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CustomAttributeApp\CustomAttributeApp\bin\Debug\CustomAttributeApp.exe.config
+C:\Users\user\source\repos\CustomAttributeApp\CustomAttributeApp\bin\Debug\CustomAttributeApp.exe
+C:\Users\user\source\repos\CustomAttributeApp\CustomAttributeApp\bin\Debug\CustomAttributeApp.pdb
+C:\Users\user\source\repos\CustomAttributeApp\CustomAttributeApp\obj\Debug\CustomAttributeApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CustomAttributeApp\CustomAttributeApp\obj\Debug\CustomAttributeApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CustomAttributeApp\CustomAttributeApp\obj\Debug\CustomAttributeApp.exe
+C:\Users\user\source\repos\CustomAttributeApp\CustomAttributeApp\obj\Debug\CustomAttributeApp.pdb

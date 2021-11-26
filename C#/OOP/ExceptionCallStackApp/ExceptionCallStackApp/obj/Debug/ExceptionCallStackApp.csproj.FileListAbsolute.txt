@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\ExceptionCallStackApp.exe.config
+C:\Users\user\source\repos\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\ExceptionCallStackApp.exe
+C:\Users\user\source\repos\ExceptionCallStackApp\ExceptionCallStackApp\bin\Debug\ExceptionCallStackApp.pdb
+C:\Users\user\source\repos\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\ExceptionCallStackApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\ExceptionCallStackApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\ExceptionCallStackApp.exe
+C:\Users\user\source\repos\ExceptionCallStackApp\ExceptionCallStackApp\obj\Debug\ExceptionCallStackApp.pdb

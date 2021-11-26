@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var foo;
+        console.log(typeof foo);
+
+        foo = 20;
+        console.log(typeof foo);
+
+        foo = "Sid";
+        console.log(typeof foo);
+
+        foo = 6>3;
+        console.log(typeof foo);
+
+        foo = function(){
+            console.log("inside function expression")
+        }
+        console.log(typeof foo);
+        foo();
+
+        foo = {}
+        console.log(typeof foo)
+
+        foo.name = "Sid"
+        foo.location = "Mumbai"
+        console.log(foo)
+
+        console.log(this)
+        console.log(this == window)
+        console.log(this.foo == window.foo)
+    </script>
+
+</body>
+</html>
