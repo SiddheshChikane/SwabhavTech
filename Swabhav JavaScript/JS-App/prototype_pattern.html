@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function customer(id,name){
+            this.id = id;
+            this.name = name;
+        }
+
+        customer.prototype.getDetails = function(){
+            setTimeout(5000); 
+            return " id is " +this.id + " name is " +this.name;
+        }
+
+        var a = new customer(101,"Akshay");
+        var s = new customer(102,"Shivam");
+        console.log(a.getDetails())
+        console.log(s.getDetails())
+
+        console.log(a.__proto__==s.__proto__);
+        console.log(customer.prototype == a.__proto__);
+
+        console.log(customer.prototype.__proto__== Object.prototype);
+
+        var obj1 ={}
+        var obj2 ={}
+
+        console.log(obj1.__proto__== Object.prototype);
+
+        Object.prototype.foo = function(name){
+            console.log("Hey I am foo inside object prototype");
+            console.log(name);
+        }
+
+        obj1.foo("obj1");
+        obj2.foo("obj2");
+        a.foo("Akshay")
+        s.foo("Shivam")
+
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\SimpleDelegateApp.exe.config
+C:\Users\user\source\repos\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\SimpleDelegateApp.exe
+C:\Users\user\source\repos\SimpleDelegateApp\SimpleDelegateApp\bin\Debug\SimpleDelegateApp.pdb
+C:\Users\user\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.exe
+C:\Users\user\source\repos\SimpleDelegateApp\SimpleDelegateApp\obj\Debug\SimpleDelegateApp.pdb
